@@ -1,0 +1,21 @@
+@media(max-width:625px){
+    .left-div{
+        flex-direction: row;
+        align-items: baseline;
+        z-index: 100;
+        width: 100%;
+        left: 0;
+        height: 100px;
+        justify-content: space-around;
+        
+    }
+
+    .container{
+        top: 100px;
+    }
+
+    .planet{
+        display: none;
+    }
+
+}
